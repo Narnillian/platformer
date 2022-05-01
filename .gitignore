@@ -1,3 +1,9 @@
-#the binary file I use
+#the binary file I compile to -- maybe i should name more clearly
 platformer
+a.out
 
+#testing files
+test.cpp
+test
+
+/.vscode/
